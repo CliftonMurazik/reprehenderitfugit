@@ -1,0 +1,20 @@
+{
+  "name": "reprehenderitfugit",
+  "version": "1.0.0",
+  "description": "Simple library to allow for serialization and deserialization (JSON or otherwise) of JS objects containing circular references",
+  "main": "json-circular.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliftonMurazik/reprehenderitfugit.git"
+  },
+  "keywords": [
+    "quis",
+    "serialization",
+    "non",
+    "deserialization"
+  ],
+  "author": "MyraWehner",
+  "bugs": {
+    "url": "https://github.com/CliftonMurazik/reprehenderitfugit.git/issues"
+  }
+}
